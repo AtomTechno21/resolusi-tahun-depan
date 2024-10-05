@@ -5,7 +5,11 @@ fundamental cara kerja ledinframerah untuk sensor pendeteksi benda
 -Pir
 -Flame
 -LDR
--Suhu
 -Jarak
--tegangan
+sensor ultrasonic menggunakan pemancar dan penerima
+-voltase
 -Arus
+sensor arus di gunakan untuk mencari nilai daya pada listrik
+daya listrik akan dihaskan untuk mencari nilai kwh
+-frekuensi
+sensor ini berfungsi untuk mengetahui kuwalitas standart sinyal listrik
