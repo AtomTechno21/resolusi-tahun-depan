@@ -16,3 +16,11 @@ Sensor Ultrasonik adalah komponen utama untuk sensor penentuan jarak
 -Arus
 -Frekuensi
 Sensor frekuensi digunkan untuk mengetahui nilai frekuensi listrik
+-Jarak
+sensor ultrasonic menggunakan pemancar dan penerima
+-Tegangan
+-Arus
+sensor arus di gunakan untuk mencari nilai daya pada listrik
+daya listrik akan dihaskan untuk mencari nilai kwh
+-frekuensi
+sensor ini berfungsi untuk mengetahui kuwalitas standart sinyal listrik
