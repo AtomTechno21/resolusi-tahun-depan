@@ -1,0 +1,10 @@
+Daftar Sensor:
+-Infrared
+sensor ni berfugsi untuk memdeteksi benda tak berwarna
+-Pir
+-Flame
+-LDR
+-Suhu
+-Jarak
+-tegangan
+-Arus
