@@ -1,6 +1,7 @@
 Daftar Sensor:
 -Infrared
-sensor ni berfugsi untuk memdeteksi benda tak berwarna
+sensor ini berfugsi untuk memdeteksi benda tak berwarna
+fundamental cara kerja ledinframerah untuk sensor pendeteksi benda
 -Pir
 -Flame
 -LDR
