@@ -1,0 +1,9 @@
+Daftar Sensor:
+-Infrared
+-Pir
+-Flame
+-LDR
+-Suhu
+-Jarak
+-tegangan
+-Arus
