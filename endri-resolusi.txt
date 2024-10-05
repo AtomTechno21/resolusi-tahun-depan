@@ -6,3 +6,5 @@ Endri Resolusi
 -melakukan desain produk untuk di jual
 -menambahan editan pada line 7
 -Resolusi baru untuk branch baru
+-Membuat Daftar Sensor
+-melakukan riset dari masih-masih sensor
