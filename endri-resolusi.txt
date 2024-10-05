@@ -4,3 +4,4 @@ Endri Resolusi
 -Melakkan monitoring perangkat
 -konsultasi dengan para expert
 -melakukan desain produk untuk di jual
+-menambahan editan pada line 7
