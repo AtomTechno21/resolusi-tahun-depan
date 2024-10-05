@@ -5,7 +5,11 @@ fundamental cara kerja ledinframerah untuk sensor pendeteksi benda
 -Pir
 -Flame
 -LDR
+-warna
+Sensor ini sangat berguna untuk mendeteksi sebuah warna benda
 -Suhu
 -Jarak
+Sensor Ultrasonik adalah komponen utama untuk sensor penentuan jarak
 -tegangan
 -Arus
+-Frekuensi
