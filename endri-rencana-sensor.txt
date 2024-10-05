@@ -10,6 +10,8 @@ Sensor ini sangat berguna untuk mendeteksi sebuah warna benda
 -Suhu
 -Jarak
 Sensor Ultrasonik adalah komponen utama untuk sensor penentuan jarak
+-Getaran
+-Berat benda
 -tegangan
 -Arus
 -Frekuensi
